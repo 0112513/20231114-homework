@@ -1,0 +1,63 @@
+body {
+  width: 100vw;
+  height: auto;
+  background: #CBDDDE;
+  position: relative;
+}
+body .div1 {
+  width: 623px;
+  height: 67px;
+  background-color: white;
+  position: absolute;
+  margin-top: 53px;
+  margin-left: 152px;
+}
+body .div1 h1 {
+  margin: 0;
+  padding-top: 14px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+body .div2 {
+  width: 623px;
+  height: auto;
+  background-color: white;
+  position: absolute;
+  top: 40%;
+  left: 17%;
+}
+body .div2 .div2-1 {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  margin-left: 137px;
+}
+body .div2 .div2-1 p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .div2 .div2-1 input {
+  width: 100px;
+  height: 20px;
+  display: flex;
+  margin-top: 37px;
+}
+body .div2 .div2-1 button {
+  width: 80px;
+  height: 20px;
+  margin-top: 40px;
+}
+body .div2 .div2-1 button p {
+  padding-left: 15px;
+  padding-bottom: 2px;
+}
+body .div2 .div2-2 {
+  margin-left: 250px;
+}
+body .div2 .div2-3 {
+  margin-left: 174px;
+  margin-right: 175px;
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
